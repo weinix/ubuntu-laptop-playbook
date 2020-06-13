@@ -2,3 +2,4 @@ Gemfile.lock
 .kitchen/
 .playbook.retry
 playbook.retry
+vendor/
